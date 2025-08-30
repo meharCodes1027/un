@@ -1,3 +1,6 @@
+# TruthChain Auditor – Level-1 DFD
+
+```mermaid
 flowchart LR
   User[User]
   P1((User Upload))
